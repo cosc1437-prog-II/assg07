@@ -246,7 +246,7 @@ covering the C++ `string` type in a bit more detail later.  But this type allows
 you to represent and compare strings.  So for example if you look at the tests for
 task 3, the first swap test looks like this:
 
-```
+```C++
   // to pass by value, we need local variables
   string a;
   string b;
